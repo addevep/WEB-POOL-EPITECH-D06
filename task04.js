@@ -14,6 +14,6 @@ module.exports = {
       }
     }
     tab = tab.join(", ");
-    return tab;
+    console.log(tab);
   }
 };
